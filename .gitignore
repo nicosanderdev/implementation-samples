@@ -1,0 +1,10 @@
+
+.idea/.idea.implementation-samples/.idea/
+
+multitenancy-api/.idea/.idea.multitenancy-api/.idea/
+
+multitenancy-api/multitenancy-api/obj/Debug/net9.0/
+
+multitenancy-api/multitenancy-api/obj/
+
+multitenancy-api/compose.yaml

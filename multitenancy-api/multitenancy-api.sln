@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+
+
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7A6F82D2-E121-4E4F-B4CE-D72BB07DB31C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multitenancy-api", "multitenancy-api\multitenancy-api.csproj", "{0FBB6AAB-88F1-454A-B5E9-A2E6E9D81DC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBB6AAB-88F1-454A-B5E9-A2E6E9D81DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBB6AAB-88F1-454A-B5E9-A2E6E9D81DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBB6AAB-88F1-454A-B5E9-A2E6E9D81DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBB6AAB-88F1-454A-B5E9-A2E6E9D81DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

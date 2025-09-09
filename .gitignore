@@ -1,10 +1,18 @@
 
 .idea/.idea.implementation-samples/.idea/
 
-multitenancy-api/.idea/.idea.multitenancy-api/.idea/
-
-multitenancy-api/multitenancy-api/obj/Debug/net9.0/
-
-multitenancy-api/multitenancy-api/obj/
-
 multitenancy-api/compose.yaml
+
+multitenancy-api/.idea/.idea.MultitenancyApi/.idea/
+
+multitenancy-api/MultitenancyApi/bin/Debug/net9.0/cs/
+
+*.dll
+
+multitenancy-api/MultitenancyApi/obj/
+
+multitenancy-api/MultitenancyApi/bin/
+
+multitenancy-api/MultitenancyApi/bin/Debug/net9.0/
+
+multitenancy-api/.idea/.idea.multitenancy-api/.idea/

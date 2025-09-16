@@ -16,3 +16,17 @@ multitenancy-api/MultitenancyApi/bin/
 multitenancy-api/MultitenancyApi/bin/Debug/net9.0/
 
 multitenancy-api/.idea/.idea.multitenancy-api/.idea/
+
+stripe-sample/compose.yaml
+
+stripe-sample/.idea/.idea.StripeSample/.idea/
+
+stripe-sample/StripeSample/bin/Debug/net9.0/cs/
+
+stripe-sample/StripeSample/obj/
+
+stripe-sample/StripeSample/bin/
+
+stripe-sample/StripeSample/bin/Debug/net9.0/
+
+stripe-sample/.idea/.idea.stripe-sample/.idea/

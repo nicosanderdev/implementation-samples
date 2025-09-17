@@ -30,3 +30,8 @@ stripe-sample/StripeSample/bin/
 stripe-sample/StripeSample/bin/Debug/net9.0/
 
 stripe-sample/.idea/.idea.stripe-sample/.idea/
+stripe-sample/StripeSample/appsettings.Development.json
+
+stripe-sample/StripeSample/appsettings.json
+
+stripe-sample/StripeSample.sln.DotSettings.user

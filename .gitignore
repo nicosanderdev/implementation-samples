@@ -35,3 +35,11 @@ stripe-sample/StripeSample/appsettings.Development.json
 stripe-sample/StripeSample/appsettings.json
 
 stripe-sample/StripeSample.sln.DotSettings.user
+
+core-identity-auth/CoreIdentityAuth/obj/
+
+core-identity-auth/.idea/.idea.CoreIdentityAuth/.idea/
+
+core-identity-auth/CoreIdentityAuth/bin/Debug/net9.0/
+
+*.db

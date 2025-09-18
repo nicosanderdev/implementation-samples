@@ -30,11 +30,10 @@ stripe-sample/StripeSample/bin/
 stripe-sample/StripeSample/bin/Debug/net9.0/
 
 stripe-sample/.idea/.idea.stripe-sample/.idea/
+
 stripe-sample/StripeSample/appsettings.Development.json
 
 stripe-sample/StripeSample/appsettings.json
-
-stripe-sample/StripeSample.sln.DotSettings.user
 
 core-identity-auth/CoreIdentityAuth/obj/
 
@@ -43,3 +42,21 @@ core-identity-auth/.idea/.idea.CoreIdentityAuth/.idea/
 core-identity-auth/CoreIdentityAuth/bin/Debug/net9.0/
 
 *.db
+
+mediator-sample/compose.yaml
+
+mediator-sample/.idea/.idea.MediatorSample/.idea/
+
+mediator-sample/MediatorSample/bin/Debug/net9.0/cs/
+
+mediator-sample/MediatorSample/obj/
+
+mediator-sample/MediatorSample/bin/
+
+mediator-sample/MediatorSample/bin/Debug/net9.0/
+
+mediator-sample/.idea/.idea.mediator-sample/.idea/
+
+mediator-sample/MediatorSample/appsettings.Development.json
+
+mediator-sample/MediatorSample/appsettings.json
